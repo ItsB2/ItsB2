@@ -1,4 +1,4 @@
-## Hello,I'm Theo👋
+## Hello, I'm Theo👋
 
 📚 Majoring in computer and communication engineering.<br/>
 🤖 Working on AI agents.<br/>
